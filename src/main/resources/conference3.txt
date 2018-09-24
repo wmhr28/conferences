@@ -1,0 +1,5 @@
+Writing Fast Tests Against Enterprise Rails 55min
+Overdoing it in Python 5min
+Lua for the Masses 10min
+Common Ruby Errors 45min
+Pair Programming vs Noise 45min
