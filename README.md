@@ -1,4 +1,4 @@
-# Conferences
+# CONFERENCE TRACK MANAGEMENT
 
 ### Installation
 
